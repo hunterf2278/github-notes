@@ -10,4 +10,4 @@ Description: A webservice that people can collaborate on. They can sign up, have
 Description: A repo is a shorter word for repository, in this case a Github repository which is another word for a project. In these projects, there can be multiple files, in summary, it's a project of files. 
 
 5. Commit
-6. Description: It is similar to a save button because when you make changes, you can save or commit to those changes in your file. Also, when making commits, you are allowing yourself to look through your history, and finally, each commit has a different identifier for it.
+ Description: It is similar to a save button because when you make changes, you can save or commit to those changes in your file. Also, when making commits, you are allowing yourself to look through your history, and finally, each commit has a different identifier for it.
